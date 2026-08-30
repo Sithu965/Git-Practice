@@ -58,7 +58,7 @@ rl.question("Paste the target folder path: ", (targetFolder) => {
           }
         });
       });
-      // updated Version 3
+      // Practicing conflict for feature1
       rl.close();
     });
   });
