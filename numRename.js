@@ -60,6 +60,7 @@ rl.question("Paste the target folder path: ", (targetFolder) => {
       });
       // This is for practising feature2
       // Practicing conflict for feature1
+      // Practicing merge locally for feature4
       rl.close();
     });
   });
